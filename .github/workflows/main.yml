@@ -1,0 +1,4 @@
+unzip medfinance-vercel.zip
+cd medfinance
+npm install
+npm run dev        # Test at http://localhost:5173
